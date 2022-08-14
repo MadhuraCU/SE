@@ -1,0 +1,5 @@
+Welcome to CSE department 
+Subjects list for CSE
+OS
+SE
+Python 
