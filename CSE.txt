@@ -3,3 +3,7 @@ Subjects list for CSE
 OS
 SE
 Python 
+Previous Semester subjects
+Networking
+FOC 
+IT Skills 
